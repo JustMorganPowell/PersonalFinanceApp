@@ -32,7 +32,7 @@ Users can link bank accounts, import & categorise transactions, set budgets, and
 | **Object Mapping** | AutoMapper |
 | **Cross‑Service Events** | MassTransit · RabbitMQ / Azure Service Bus |
 | **Frontend** | Vue 3 (Vite + Vuex + Vue Router) |
-| **Infrastructure** | **Kubernetes (Helm)** — *Docker/Compose is on hold due to WSL issues* |
+| **Infrastructure** |.NET Aspire • YARP API Gateway •  **Kubernetes (Helm)** — *Docker/Compose is on hold due to WSL issues* |
 | **Observability** | OpenTelemetry · Prometheus · Grafana · ELK |
 
 ---
