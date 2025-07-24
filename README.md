@@ -39,7 +39,7 @@ Users can link bank accounts, import & categorise transactions, set budgets, and
 
 ## 🧭 System Architecture
 
-![System Architecture](diagrams/Level1_digram.jpg)
+![System Architecture](diagrams/Level1_diagram_PFA.jpg)
 
 
 ---
