@@ -1,4 +1,4 @@
-﻿# Personal Finance Management App · DDD Microservices in .NET 8
+﻿# Personal Finance Management App · DDD Microservices in .NET 9
 
 A cloud‑native personal‑finance platform that illustrates **Domain‑Driven Design (DDD)** inside a **microservices** architecture.  
 Users can link bank accounts, import & categorise transactions, set budgets, and view analytics dashboards — while you showcase clean code, event‑driven patterns, MediatR, AutoMapper, and Vue 3.
