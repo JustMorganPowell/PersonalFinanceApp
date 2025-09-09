@@ -27,7 +27,7 @@ Users can link bank accounts, import & categorise transactions, set budgets, and
 
 | Layer | Choices |
 |-------|---------|
-| **Backend** | ASP.NET Core 8 · EF Core · SQL Server · PostgreSQL · Duende IdentityServer |
+| **Backend** | ASP.NET Core 9 · EF Core · SQL Server · PostgreSQL · Duende IdentityServer |
 | **In‑Process Messaging** | MediatR |
 | **Object Mapping** | AutoMapper |
 | **Cross‑Service Events** | MassTransit · RabbitMQ / Azure Service Bus |
